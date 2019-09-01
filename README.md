@@ -1,4 +1,5 @@
 # Agents-BDI
+For the source code decompress src.zip
 
 Simulation of simple Multi-Agent system where the agents are using Belief-Desire-Intention architecture.
 
